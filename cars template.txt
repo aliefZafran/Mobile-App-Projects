@@ -1,0 +1,6 @@
+<CarItem 
+        name='Model X'
+        tagline='Starting from RM289,000'
+        taglineCTA = 'Touchless Delivery'
+        image={require('./assets/images/ModelX.jpeg')}
+      />
